@@ -20,7 +20,7 @@ I’m a passionate individual when it comes to entrepreneurship, with a keen int
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><td valign="top" width="50%">
 
 - 🔭 I’m currently working on []()  
   
@@ -38,7 +38,7 @@ I’m a passionate individual when it comes to entrepreneurship, with a keen int
 </div>  
 
 
-</td></tr></table>  
+</td>/table>  
 
 <br/>  
 
@@ -86,10 +86,3 @@ I’m a passionate individual when it comes to entrepreneurship, with a keen int
 ### A bit of spice  
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=q9v74aimbbay8ix7olqiv3e6z&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)  
 
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
